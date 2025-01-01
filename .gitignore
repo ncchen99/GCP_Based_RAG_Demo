@@ -1,0 +1,6 @@
+.env 
+web_data
+web_data_txt_files
+
+combined_embeddings.json
+combined_embeddings_20250101.json
